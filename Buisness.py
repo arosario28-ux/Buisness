@@ -433,15 +433,15 @@ elif current == "Leaders":
         <p class="leader-role">⚽ Founder &amp; Club President · Age 16</p>
         <p class="leader-bio">
             Adrielle Rosario is the visionary behind S.C. Reapers — founding the club at just 16 years old
-            with an ambition that far exceeds her age. Born and raised in Carolina, Adrielle saw a gap in
+            with an ambition that far exceeds his age. Born and raised in Carolina, Adrielle saw a gap in
             the local soccer community and decided not to wait for someone else to fill it. With zero backing
-            and everything to prove, she built the Reapers from the ground up: recruiting players, organizing
+            and everything to prove, he built the Reapers from the ground up: recruiting players, organizing
             training sessions, and establishing the club's identity around grit, unity, and relentless drive.
             <br><br>
-            Her leadership philosophy is simple — work harder than everyone else and never let your teammates
+            His leadership philosophy is simple — work harder than everyone else and never let your teammates
             down. At an age when most people are still figuring things out, Adrielle is already running a
             competitive soccer organization and setting a standard for what young leaders in Carolina can achieve.
-            The Reapers are her vision, and she intends to see it through.
+            The Reapers are his vision, and he intends to see it through.
         </p>
     </div>
     """, unsafe_allow_html=True)
@@ -451,7 +451,7 @@ elif current == "Leaders":
         <h3>The Story of S.C. Reapers</h3>
         <p>
             S.C. Reapers was founded in 2024 in Carolina by Adrielle Rosario, a 16-year-old with a
-            burning passion for soccer and an even stronger belief that her community deserved a real,
+            burning passion for soccer and an even stronger belief that his community deserved a real,
             competitive club to rally behind. The name "Reapers" was chosen deliberately — it represents
             relentlessness, the harvesting of hard work, and the idea that greatness doesn't come without
             sacrifice. The scythe in the club's crest isn't a symbol of fear; it's a symbol of what happens
